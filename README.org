@@ -1,0 +1,13 @@
+* evernote2simplenote
+
+** Introduction
+evernote2simplenote can convert from enex file(Evernote xml) into simplenote.
+
+** Requirements
+- [[https://github.com/mrtazz/simplenote.py][simplenote]]
+
+** Usage
+#+begin_src shell
+$ python converter.py enexfile
+#+end_src
+
